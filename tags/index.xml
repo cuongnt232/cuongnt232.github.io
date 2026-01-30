@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Blog của CuongNT232</title>
+    <link>https://cuongnt232.github.io/tags/</link>
+    <description>Recent content in Tags on Blog của CuongNT232</description>
+    <generator>Hugo -- 0.155.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 14:00:00 +0700</lastBuildDate>
+    <atom:link href="https://cuongnt232.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://cuongnt232.github.io/tags/automation/</link>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 +0700</pubDate>
+      <guid>https://cuongnt232.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://cuongnt232.github.io/tags/python/</link>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 +0700</pubDate>
+      <guid>https://cuongnt232.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telegram Bot</title>
+      <link>https://cuongnt232.github.io/tags/telegram-bot/</link>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 +0700</pubDate>
+      <guid>https://cuongnt232.github.io/tags/telegram-bot/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
