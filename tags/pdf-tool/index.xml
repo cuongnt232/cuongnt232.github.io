@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>PDF Tool on Blog của CuongNT232</title><link>https://cuongnt232.github.io/tags/pdf-tool/</link><description>Recent content in PDF Tool on Blog của CuongNT232</description><generator>Hugo -- 0.155.0</generator><language>en-us</language><lastBuildDate>Tue, 03 Feb 2026 14:27:10 +0700</lastBuildDate><atom:link href="https://cuongnt232.github.io/tags/pdf-tool/index.xml" rel="self" type="application/rss+xml"/><item><title>Tool xử lý file PDF</title><link>https://cuongnt232.github.io/posts/chia-se-tool-xu-ly-pdf/</link><pubDate>Tue, 03 Feb 2026 14:27:10 +0700</pubDate><guid>https://cuongnt232.github.io/posts/chia-se-tool-xu-ly-pdf/</guid><description>Một công cụ đến từ CuongNT232.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PDF Tool on Blog của CuongNT232</title>
+    <link>https://cuongnt232.github.io/tags/pdf-tool/</link>
+    <description>Recent content in PDF Tool on Blog của CuongNT232</description>
+    <generator>Hugo -- 0.155.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Feb 2026 14:27:10 +0700</lastBuildDate>
+    <atom:link href="https://cuongnt232.github.io/tags/pdf-tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tool xử lý file PDF</title>
+      <link>https://cuongnt232.github.io/posts/chia-se-tool-xu-ly-pdf/</link>
+      <pubDate>Tue, 03 Feb 2026 14:27:10 +0700</pubDate>
+      <guid>https://cuongnt232.github.io/posts/chia-se-tool-xu-ly-pdf/</guid>
+      <description>Một công cụ đến từ CuongNT232.</description>
+    </item>
+  </channel>
+</rss>
